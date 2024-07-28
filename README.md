@@ -1,17 +1,19 @@
 # Exploring Our World of NIFTY Indices
 
+![Explore Our World of Indices](https://raw.githubusercontent.com/jishnukoliyadan/Explore-Our-World-of-Indices/main/src/Explore-Our-World-of-Indices.png)
+
 This Notebook explores NIFTY's major indices, and trying to understand the Indian stock market over the last 20+years.
 
-![Percentage change on growth from 2009](https://github.com/user-attachments/assets/3c3f189f-ea5d-4010-a581-326edc027794)
+![Percentage change on growth from 2009](https://raw.githubusercontent.com/jishnukoliyadan/Explore-Our-World-of-Indices/01971af3a991811fe4a618f3ff033f1d3c6fa5f8/src/Percentage-Change.svg)
 
-OK. But how about the change in value from 2009 to 2024 ? [Click Here](https://github.com/user-attachments/assets/67ea328c-74c5-44f6-8e88-63f29906d295) for that chart.
+OK. But how about the change in value from 2009 to 2024 ? [Click Here](https://raw.githubusercontent.com/jishnukoliyadan/Explore-Our-World-of-Indices/01971af3a991811fe4a618f3ff033f1d3c6fa5f8/src/Value-Change.svg) for that chart.
 
 
-## Intrested in interactive charts ? Then view it on [![view on nbviewer](https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/f007948a7394b753b1a9a77682099536ed714e8e/svgs/NbViwer_View_In.svg)](https://nbviewer.org/github/jishnukoliyadan/Explore-Our-World-of-Indices/blob/main/NIFTY-Indices-Comparison.ipynb)
+### Intrested in interactive charts ? Then view it on [![view on nbviewer](https://raw.githubusercontent.com/jishnukoliyadan/usefull_items/f007948a7394b753b1a9a77682099536ed714e8e/svgs/NbViwer_View_In.svg)](https://nbviewer.org/github/jishnukoliyadan/Explore-Our-World-of-Indices/blob/main/NIFTY-Indices-Comparison.ipynb)
 
 We will be checking performance of past major historical events. The events, dates and the duration of those events that we checked are listed below.
 
-![Historical Events](https://github.com/user-attachments/assets/e16607de-a2b0-44ed-b0bc-ff23f84ba401)
+![Historical Events](https://raw.githubusercontent.com/jishnukoliyadan/Explore-Our-World-of-Indices/main/src/Historical-Events.jpg)
 
 # Note
 
